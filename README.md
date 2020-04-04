@@ -1,4 +1,4 @@
-# This week's Schedule (4/5 - 4/20)
+# This week's Schedule (4/5 - 4/11)
 
 ## Lecture
 + [Model Evaluation & Optimization](https://docs.google.com/presentation/d/19gqJD_Uw0RCCEGVrmdgTsWNXhVHMX0ozSfBRmQT1qVA/edit?usp=sharing)
